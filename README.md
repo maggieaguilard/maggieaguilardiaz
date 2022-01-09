@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maggieaguilardiaz
+- 👋 Hi, I’m @maggieaguilard
 - 👀 I’m interested in RStudio, coding, & app developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data reading, research, and analysis 
